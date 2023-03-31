@@ -1,0 +1,3 @@
+streamlit
+git+http://github.com/dmoggles/dbconnect
+git+http://github.com/dmoggles/mplsoccer
